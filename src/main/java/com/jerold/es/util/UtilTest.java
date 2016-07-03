@@ -1,4 +1,4 @@
-package com.jerold.util;
+package com.jerold.es.util;
 
 /**
  * Created by Jerold on 16/6/16.
